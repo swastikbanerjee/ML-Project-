@@ -2,9 +2,7 @@
 
 Welcome to the Image Classification and Similarity Checker Web Application! This application allows you to classify images into different categories and find similar images based on their content similarity.
 
-## License
-
-This project is licensed under the [All Rights Reserved](LICENSE) license.
+[![License](https://img.shields.io/badge/license-All%20Rights%20Reserved-red.svg)](LICENSE)
 
 Enjoy using the Image Classification and Similarity Checker Web Application!
 
