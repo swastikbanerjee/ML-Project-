@@ -7,8 +7,7 @@ Welcome to the Image Classification and Similarity Checker Web Application! This
 Enjoy using the Image Classification and Similarity Checker Web Application!
 
 ## Author
-
-- **Swastik Banerjee** - [swastikbanerjee2001@gmail.com](mailto:swastikbanerjee2001@gmail.com)
+### Swastik Banerjee (mailto:swastikbanerjee2001@gmail.com)
 
 ## Overview
 
