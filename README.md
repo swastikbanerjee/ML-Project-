@@ -1,4 +1,4 @@
-# Image Classification and Similarity Checker Web Application
+# Lightweight Image Classifier & Similarity Checker
 
 Welcome to the Image Classification and Similarity Checker Web Application! This application allows you to classify images into different categories and find similar images based on their content similarity.
 
